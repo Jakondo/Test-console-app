@@ -37,6 +37,8 @@ with con:
         for row in rows:
             print(row)
         print(time.time() - timing)
+    elif choice == 5:
+        pass
     else:
         pass
 
